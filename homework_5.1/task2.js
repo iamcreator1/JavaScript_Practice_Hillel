@@ -23,7 +23,7 @@ function averageGradeSwitch(averageMark) {
     }
 }
 
-averageGradeSwitch(101)
+averageGradeSwitch(71)
 
 
 
