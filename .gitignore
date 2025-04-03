@@ -137,3 +137,6 @@ dist
 
 #modules
 node_modules/
+
+#practice
+practice.js
